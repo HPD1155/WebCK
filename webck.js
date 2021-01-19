@@ -21,4 +21,3 @@ function check(rend, crash)
     console.error("You don't have a good enough graphics card and/or cpu for the website!")
   }
 }
-check()
